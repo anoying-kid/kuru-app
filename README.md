@@ -1,16 +1,35 @@
-# kururin
+# Kururin
 
-A new Flutter project.
+    You got kuru kurued
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+### Apk
 
-A few resources to get you started if this is your first Flutter project:
+Download apk [here](https://github.com/anoying-kid/kuru-app/releases/tag/v1.0.0)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Web app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Use app online [here](http://kururin-e7956.web.app)
+
+## Features
+
+1. Support Google sign in
+2. Firebase connectivity
+3. Leaderboard (you can't be no. 1 😬)
+
+## Clone
+
+```
+git clone https://github.com/anoying-kid/kuru-app
+```
+```
+cd kuru-app
+```
+```
+flutter pub get
+```
+
+## Credits
+
+Inspiration from [tannhauser.moe](https://tannhauser.moe) and [herta_kuru](https://duiqt.github.io/herta_kuru/)

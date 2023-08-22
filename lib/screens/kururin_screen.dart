@@ -92,7 +92,7 @@ class _KururinScreenState extends State<KururinScreen> {
     });
   }
 
-  static final Uri _githubUrl = Uri.parse('https://github.com/anoying-kid');
+  static final Uri _githubUrl = Uri.parse('https://github.com/anoying-kid/kuru-app');
   Future<void> _launchUrl() async {
     if (!await launchUrl(_githubUrl)) {
       throw Exception('Could not launch $_githubUrl');
