@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "847072228396",
+    "project_id": "kururin-e7956",
+    "storage_bucket": "kururin-e7956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847072228396:android:4b1b70202a8f1a66184d89",
+        "android_client_info": {
+          "package_name": "com.example.kururin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847072228396-7odhlfkmo5o8rc4gau59bbq90pavknrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kururin",
+            "certificate_hash": "ffbed1e93f3081234671662d5d6c22056e5b184a"
+          }
+        },
+        {
+          "client_id": "847072228396-13g7vn7vje12tqp905p9l9j7qhmju4g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHo6eSJ8fWO6Mh785OMTDgY-Z2biasss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847072228396-13g7vn7vje12tqp905p9l9j7qhmju4g3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847072228396-g6mtk5enj7jpp9f08mjlunmgurfd5vug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kururin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847072228396:android:afe1265fa8da2f74184d89",
+        "android_client_info": {
+          "package_name": "com.kururin.kuru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847072228396-13g7vn7vje12tqp905p9l9j7qhmju4g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHo6eSJ8fWO6Mh785OMTDgY-Z2biasss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847072228396-13g7vn7vje12tqp905p9l9j7qhmju4g3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847072228396-g6mtk5enj7jpp9f08mjlunmgurfd5vug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kururin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
